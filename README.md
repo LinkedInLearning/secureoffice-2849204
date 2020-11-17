@@ -1,7 +1,8 @@
 # Securing Your Home Office
 This is the repository for the LinkedIn Learning course Securing Your Home Office. The full course is available from [LinkedIn Learning][lil-course-url].
 
-![course-name-alt-text][lil-thumbnail-url] 
+![Securing Your Home Office][lil-thumbnail-url] 
+Working from a home office might be a temporary situation or a permanent choice, but whatever the situation, security is key. In this course, Scott Simpson covers how to secure your home office. Learn tips for keeping work and personal hardware separate. Scott discusses how to keep your home office physically secure. Physical security alone isn’t enough, though. Learn about encryption and why you should use it to secure information. Then explore the importance of backups, to ensure mistakes and disasters don't result in missing information. Scott goes over Wi-Fi and network security, then explains the basics of what a virtual private network (VPN) does and offers some tips on how to use it safely. Find out how to browse the web securely. Then, Scott walks you through some basics of audio and video privacy, mobile security, as well as some scams that target home workers.
 
 ## Recommended Courses
 This course introduces several concepts that are more deeply explored in other LinkedIn Learning courses. Below is a list of courses we recommend for further exploration.
@@ -53,8 +54,14 @@ These courses and others can be found in the [Remote Working: Setting Yourself a
 [Security Tips](https://www.linkedin.com/learning/security-tips)
 
 
-[0]: # (Replace these placeholder URLs with actual course URLs)
+### Instructor
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+**Scott Simpson**
+
+_Creating technology courses as an Author at LinkedIn_
+
+Check out some of my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/scott-simpson).
+
+[lil-course-url]: https://www.linkedin.com/learning/securing-your-home-office
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2849204/2849204-1605131044475-16x9.jpg
 
